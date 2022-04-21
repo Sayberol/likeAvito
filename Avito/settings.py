@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'likeAvito.ads1.urls'
+ROOT_URLCONF = 'likeAvito.Avito.urls'
 
 TEMPLATES = [
     {
